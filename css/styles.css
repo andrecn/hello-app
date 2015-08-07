@@ -1,0 +1,15 @@
+/* CSS Document */
+
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	outline: none;
+}
+
+a {
+	font-size: 20px;
+	font-weight: bold;
+	display: block;
+	color: #FF0004;
+}
